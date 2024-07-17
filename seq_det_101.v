@@ -1,3 +1,4 @@
+//moore coding style
 module seq_det_101(input clk,
                    input reset,
                    input i,
